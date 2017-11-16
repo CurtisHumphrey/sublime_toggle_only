@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle .only",
+        "command": "toggle_only"
+    }
+]
